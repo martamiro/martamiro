@@ -2,7 +2,6 @@
 
 <h1>International Business + Business Administration with a focus on Big Data and Logistics 👩‍💻</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-martamiroreig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martamiroreig)](https://www.linkedin.com/in/martamiroreig/) [![Gmail Badge](https://img.shields.io/badge/-martmiro0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martamiro0@gmail.com)](mailto:martamiro0@gmail.com) 
 
