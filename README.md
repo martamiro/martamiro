@@ -8,10 +8,11 @@
 <div style="text-align: right">Creative, hard-working and ambitious, ready to face new challenges with passion and determination </div>
 
 ## Academic Background:
-* Big Data & Cloud Master's Degree in EDEM
-* International Business Degree in LAB University of Applied Sciences
-* Business Administartion Degree in UPV
-* Certificate in Advanced English CAE (C1) 
+🔛​​Big Data & Cloud Master's Degree in EDEM
+
+🎓International Business Degree in LAB University of Applied Sciences
+
+🎓Business Administartion Degree in UPV
  
  ## Work Experience: 
  * Transport Technician at Sprinter
